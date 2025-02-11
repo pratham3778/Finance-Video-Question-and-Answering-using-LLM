@@ -3,7 +3,7 @@ This project is designed to help finance professionals, students, and researcher
 
 ---
  
-## Features 📊
+## Features 📊 
 - Video Question Answering using Large Language Models
 - Finance-related video analysis and response generation
 - Easy-to-set-up project using a Python-based environment
@@ -82,7 +82,7 @@ How to set up any necessary API keys or environment variables:
 ---
 
 ## Demo 🚀
-Coming soon....
+Coming soon.... 
 
 ---
 
