@@ -1,4 +1,4 @@
-# Finance Video Question Answering using Large Language Models 🌟
+# Finance Video Question Answering using Large Language Models 🌟 
 This project is designed to help finance professionals, students, and researchers quickly extract and understand financial information from videos using AI-powered question-answering. By leveraging advanced large language models (LLMs), users can ask questions about finance-related video content and receive accurate, context-aware answers.
 
 ---
